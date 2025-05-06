@@ -1,0 +1,14 @@
+.countdown {
+    text-align: center;
+    padding: 1rem;
+    background-color: #222;
+    color: #fff;
+  }
+  
+  .timer {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    font-size: 1.5rem;
+    margin-top: 0.5rem;
+  }

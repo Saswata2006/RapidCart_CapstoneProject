@@ -1,0 +1,11 @@
+.search-bar {
+    width: 80%;
+    max-width: 500px;
+    margin: 1rem auto;
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 25px;
+    display: block;
+  }
+  
